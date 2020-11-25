@@ -1,0 +1,11 @@
+C:\Users\x\source\repos\DR.ExposeSimulator20.Com\handswith\obj\Release\handswith.csprojAssemblyReference.cache
+C:\Users\x\source\repos\DR.ExposeSimulator20.Com\handswith\obj\Release\Cabletest.Form1.resources
+C:\Users\x\source\repos\DR.ExposeSimulator20.Com\handswith\obj\Release\handswith.Properties.Resources.resources
+C:\Users\x\source\repos\DR.ExposeSimulator20.Com\handswith\obj\Release\handswith.csproj.GenerateResource.cache
+C:\Users\x\source\repos\DR.ExposeSimulator20.Com\handswith\bin\Release\handswith.exe
+C:\Users\x\source\repos\DR.ExposeSimulator20.Com\handswith\bin\Release\handswith.pdb
+C:\Users\x\source\repos\DR.ExposeSimulator20.Com\handswith\bin\Release\DR.ExposeSimulator20.Com.dll
+C:\Users\x\source\repos\DR.ExposeSimulator20.Com\handswith\bin\Release\DR.ExposeSimulator20.Com.pdb
+C:\Users\x\source\repos\DR.ExposeSimulator20.Com\handswith\obj\Release\handswith.csproj.CopyComplete
+C:\Users\x\source\repos\DR.ExposeSimulator20.Com\handswith\obj\Release\handswith.exe
+C:\Users\x\source\repos\DR.ExposeSimulator20.Com\handswith\obj\Release\handswith.pdb

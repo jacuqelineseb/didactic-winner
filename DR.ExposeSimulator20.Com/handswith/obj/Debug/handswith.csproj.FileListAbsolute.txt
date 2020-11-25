@@ -1,0 +1,3 @@
+C:\Users\x\source\repos\DR.ExposeSimulator20.Com\handswith\obj\Debug\Cabletest.Form1.resources
+C:\Users\x\source\repos\DR.ExposeSimulator20.Com\handswith\obj\Debug\handswith.Properties.Resources.resources
+C:\Users\x\source\repos\DR.ExposeSimulator20.Com\handswith\obj\Debug\handswith.csproj.GenerateResource.cache

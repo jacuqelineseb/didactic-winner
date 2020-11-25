@@ -1,0 +1,12 @@
+C:\Users\x\source\repos\DR.ExposeSimulator20.Com\Cabletest\bin\Release\Cabletest.exe.config
+C:\Users\x\source\repos\DR.ExposeSimulator20.Com\Cabletest\bin\Release\Cabletest.exe
+C:\Users\x\source\repos\DR.ExposeSimulator20.Com\Cabletest\bin\Release\Cabletest.pdb
+C:\Users\x\source\repos\DR.ExposeSimulator20.Com\Cabletest\bin\Release\DR.ExposeSimulator20.Com.dll
+C:\Users\x\source\repos\DR.ExposeSimulator20.Com\Cabletest\bin\Release\DR.ExposeSimulator20.Com.pdb
+C:\Users\x\source\repos\DR.ExposeSimulator20.Com\Cabletest\obj\Release\Cabletest.csprojAssemblyReference.cache
+C:\Users\x\source\repos\DR.ExposeSimulator20.Com\Cabletest\obj\Release\Cabletest.Form1.resources
+C:\Users\x\source\repos\DR.ExposeSimulator20.Com\Cabletest\obj\Release\Cabletest.Properties.Resources.resources
+C:\Users\x\source\repos\DR.ExposeSimulator20.Com\Cabletest\obj\Release\Cabletest.csproj.GenerateResource.cache
+C:\Users\x\source\repos\DR.ExposeSimulator20.Com\Cabletest\obj\Release\Cabletest.csproj.CopyComplete
+C:\Users\x\source\repos\DR.ExposeSimulator20.Com\Cabletest\obj\Release\Cabletest.exe
+C:\Users\x\source\repos\DR.ExposeSimulator20.Com\Cabletest\obj\Release\Cabletest.pdb
